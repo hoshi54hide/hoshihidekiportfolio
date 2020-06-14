@@ -136,9 +136,14 @@ li {
 ---------------------------------*/
 #header {
   display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 120vh;
+    align-items: center;
+    justify-content: center;
+    height: 120vh;
+  height:400px;
+  background-image: url(https://github.com/hoshi54hide/hoshihidekiportfolio/blob/master/img/about/star2.jpg);
+  background-repeat:repeat-x;
+  background-size:40px;
+  background-position: bottom;
 }
 
 #header .logo {
@@ -161,12 +166,7 @@ li {
   letter-spacing: .2em;
 }
 
-#header{
-  height:400px;
-  background-image: url(https://github.com/hoshi54hide/hoshihidekiportfolio/blob/master/img/about/star2.jpg);
-  background-size:cover;
 
-}
 
 
 /*--------------------------------
