@@ -136,7 +136,7 @@ li {
 ---------------------------------*/
 #header {
   display: flex;
-    align-items: center;
+    align-items: enter;
     justify-content: center;
     height: 120vh;
   height:400px;
