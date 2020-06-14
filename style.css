@@ -134,6 +134,17 @@ li {
 /*--------------------------------
 ヘッダー
 ---------------------------------*/
+#header {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120vh;
+  height:400px;
+  background-image: url(star4.jpg);
+  background-repeat:repeat-x;
+  background-size:40px;
+  background-position: bottom;
+}
 
 #header .logo {
   position: relative;
